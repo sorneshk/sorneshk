@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Sornsesh
+## Hi there 👋 I'm Sornesh
 
-🎓 3rd Year CSE Student  
+🎓 3rd Year Computer Science Student  
 💡 Aspiring Software Development Engineer (SDE)  
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -22,7 +22,3 @@
 
 ---
 
-### 🚀 Projects
-- 🔹 Green Building Rating App (Ecovue)
-- 🔹 Lab Management System
-- 🔹 DSA Practice (LeetCode Solutions)
