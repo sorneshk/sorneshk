@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sornesh
+## Hi there 👋 It's me Sornesh
 
 🎓 3rd Year Computer Science Student  
 💡 Aspiring Software Development Engineer (SDE)  
@@ -12,8 +12,8 @@
 ---
 
 ### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sorneshk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)]([YOUR_LINK](https://leetcode.com/u/sorneshkk/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sorneshk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/sorneshkk)
 
 ---
 
@@ -22,3 +22,5 @@
 
 ---
 
+### 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/sorneshkk?theme=dark&font=Marcellus)
